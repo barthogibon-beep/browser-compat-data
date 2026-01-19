@@ -1,5 +1,21 @@
 # @mdn/browser-compat-data release notes
 
+## [v7.2.5](https://github.com/mdn/browser-compat-data/releases/tag/v7.2.5)
+
+January 19, 2026
+
+### Additions
+
+- `api.Document.requestStorageAccess.strict_same_origin_policy` ([#28682](https://github.com/mdn/browser-compat-data/pull/28682))
+- `css.types.random` ([#28840](https://github.com/mdn/browser-compat-data/pull/28840))
+
+### Statistics
+
+- 6 contributors have changed 19 files with 137 additions and 42 deletions in 9 commits ([`v7.2.4...v7.2.5`](https://github.com/mdn/browser-compat-data/compare/v7.2.4...v7.2.5))
+- 19,206 total features
+- 1,218 total contributors
+- 5,562 total stargazers
+
 ## [v7.2.4](https://github.com/mdn/browser-compat-data/releases/tag/v7.2.4)
 
 January 15, 2026
